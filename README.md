@@ -15,6 +15,8 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ## 🔧 Tech Stack
 
 ### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,js,html,css,mui,github" height="50" />
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
