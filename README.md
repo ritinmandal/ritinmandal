@@ -157,6 +157,15 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 
 ---
 
+## 🐍 Lets Play Snake Game
+
+<div align="center">
+![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-contribution-grid-snake.svg)
+
+  
+</div>
+
+
 ## 📈 GitHub Contribution Graph
 
 ![Ritin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritinmandal&theme=react-dark&hide_border=true&area=true)
@@ -172,9 +181,6 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 </p>
 
 ---
-## 🐍 GitHub Snake Animation
-
-![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-contribution-grid-snake.svg)
 
 
 
