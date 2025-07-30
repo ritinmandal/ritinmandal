@@ -12,10 +12,9 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
 ### 🌐 Frontend
-## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
