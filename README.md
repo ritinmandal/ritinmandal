@@ -160,7 +160,7 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 ## 🐍 Lets Play Snake Game
 
 <div align="center">
-![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg)
 
   
 </div>
@@ -170,7 +170,6 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 
 ![Ritin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritinmandal&theme=react-dark&hide_border=true&area=true)
 
-![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg)
 
 
 ## 📊 GitHub Stats
