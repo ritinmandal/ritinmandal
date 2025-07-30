@@ -175,11 +175,14 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritinmandal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Ritin's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritinmandal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritinmandal&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="Ritin's GitHub Stats" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ritinmandal&theme=radical&hide_border=true" alt="Ritin's GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritinmandal&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="150"/>
 </p>
+
+
+
 
 ---
 ### ✍️ Dev Quote
