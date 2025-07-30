@@ -15,7 +15,7 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ## 🧰 Tech Stack
 
 
-### 🌐 Frontend
+## 🌐 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
@@ -38,24 +38,51 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 
   <img src="https://skillicons.dev/icons?i=mui" height="40" />
   <span style="margin-right: 20px;"><b>MUI</b></span>
+<img src="https://skillicons.dev/icons?i=sass" height="40" />
+  <span style="margin-right: 20px;"><b>Sass</b></span>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+  <span style="margin-right: 20px;"><b>Bootstrap</b></span>
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40" />
+  <b>Framer</b>
+  <img src="https://skillicons.dev/icons?i=redux" height="40" />
+  <span style="margin-right: 50px;"><b>Redux</b></span>
 
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <span style="margin-right: 20px;"><b>GitHub</b></span>
 </p>
 
-### 🔧 Backend / Tools
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+## 🔧 Backend / Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
+  <b>Supabase</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <b>MySQL</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+  <b>Firebase</b>&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+  <b>MS SQL Server</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <b>VS Code</b>
+</p>
 
+
+## 🎨 Design Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+  <b>Figma</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" />
+  <b>Photoshop</b>&nbsp;&nbsp;
+  
+  <img src="https://skillicons.dev/icons?i=xd" height="40" />
+  <b>Adobe XD</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <b>Canva</b>
+  
+</p>
 
 ---
 ## 📬 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://facebook.com/ritin.mandal.143" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -73,8 +100,8 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritinmandal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ritinmandal&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
