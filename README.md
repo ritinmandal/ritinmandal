@@ -15,22 +15,37 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ## 🔧 Tech Stack
 
 ### 🌐 Frontend
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br>Next.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mui" height="40"/><br>MUI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br>VS Code</td>
-  </tr>
-</table>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <span style="margin-right: 20px;"><b>HTML</b></span>
+
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <span style="margin-right: 20px;"><b>CSS</b></span>
+
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <span style="margin-right: 20px;"><b>JavaScript</b></span>
+
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <span style="margin-right: 20px;"><b>React</b></span>
+
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+  <span style="margin-right: 20px;"><b>Next.js</b></span>
+
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <span style="margin-right: 20px;"><b>Tailwind</b></span>
+
+  <img src="https://skillicons.dev/icons?i=mui" height="40" />
+  <span style="margin-right: 20px;"><b>MUI</b></span>
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <span style="margin-right: 20px;"><b>Node.js</b></span>
+
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <span style="margin-right: 20px;"><b>GitHub</b></span>
+</p>
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
