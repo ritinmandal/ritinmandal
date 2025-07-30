@@ -49,7 +49,7 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 
 </p>
 
-## 🔧 Backend / Tools
+## 🔧 Backend / DevTools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
   <b>Supabase</b>&nbsp;&nbsp;
@@ -61,7 +61,16 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
   <b>MS SQL Server</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <b>VS Code</b>
+  <img src="https://skillicons.dev/icons?i=vite" height="40" />
+  <b>Vite</b>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <b>Postman</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <b>GitHub</b>&nbsp;&nbsp;
 </p>
+
+
+
 
 
 ## 🎨 Design Tools
@@ -76,7 +85,14 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
   <b>Adobe XD</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
   <b>Canva</b>
-  
+</p>
+
+## 🌐 Hosting Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" /> 
+  <b>Vercel</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" />
+  <b>Netlify</b>&nbsp;&nbsp;
 </p>
 
 ---
@@ -140,6 +156,11 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 When I'm not coding, I'm probably refining a design or figuring out how to make a button "feel right" ✨
 
 ---
+
+## 📈 GitHub Contribution Graph
+
+![Ritin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritinmandal&theme=react-dark&hide_border=true&area=true)
+
 
 ## 📊 GitHub Stats
 
