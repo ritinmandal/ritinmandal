@@ -14,17 +14,18 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 
 ## 🧰 Tech Stack
 
+
 ### 🌐 Frontend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <span style="margin-right: 20px;"><b>HTML</b></span>
+  <span style="margin-righ: 20px;"><b>HTML</b></span>
 
   <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <span style="margin-right: 20px;"><b>CSS</b></span>
+  <span style="margin-left: 20px;"><b>CSS</b></span>
 
   <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <span style="margin-right: 20px;"><b>JavaScript</b></span>
+  <span style="margin-right: 40px;"><b>JavaScript</b></span>
 
   <img src="https://skillicons.dev/icons?i=react" height="40" />
   <span style="margin-right: 20px;"><b>React</b></span>
@@ -38,21 +39,9 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
   <img src="https://skillicons.dev/icons?i=mui" height="40" />
   <span style="margin-right: 20px;"><b>MUI</b></span>
 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <span style="margin-right: 20px;"><b>Node.js</b></span>
-
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <span style="margin-right: 20px;"><b>GitHub</b></span>
 </p>
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![MUI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=mui&logoColor=fff&style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF018C?logo=framer&logoColor=fff&style=for-the-badge)
 
 ### 🔧 Backend / Tools
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000&style=for-the-badge)
@@ -61,7 +50,7 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 101 100"><path fill="#61DAFB" d="M50.307 58.816a8.816 8.816 0 1 0 0-17.632 8.816 8.816 0 0 0 0 17.632"/><path stroke="#61DAFB" stroke-width="5" d="M50.307 68.063c26.126 0 47.306-8.087 47.306-18.063s-21.18-18.062-47.306-18.062C24.18 31.938 3 40.024 3 50s21.18 18.063 47.307 18.063Z"/><path stroke="#61DAFB" stroke-width="5" d="M34.664 59.031C47.727 81.658 65.321 95.957 73.96 90.97c8.64-4.988 5.053-27.374-8.01-50C52.885 18.342 35.291 4.043 26.652 9.03s-5.052 27.374 8.011 50Z"/><path stroke="#61DAFB" stroke-width="5" d="M34.664 40.969c-13.063 22.626-16.65 45.012-8.01 50 8.638 4.988 26.232-9.311 39.295-31.938s16.65-45.012 8.01-50c-8.638-4.988-26.232 9.311-39.295 31.938Z"/></svg>
+
 
 ---
 
