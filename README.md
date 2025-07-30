@@ -170,6 +170,10 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 </p>
 
 ---
+## 🐍 GitHub Snake Animation
+
+![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
