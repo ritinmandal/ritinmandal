@@ -157,13 +157,15 @@ When I'm not coding, I'm probably refining a design or figuring out how to make 
 
 ---
 
-## 🐍 Lets Play Snake Game
+## 🐍 Snake Game?
 
 <div align="center">
-![snake gif](https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
+
 
   
-</div>
 
 
 ## 📈 GitHub Contribution Graph
