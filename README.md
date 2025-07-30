@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ritin Mandal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=React+Developer+%7C+UI+Designer;Front-end+Enthusiast+with+a+touch+of+Back-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+Enthusiast+with+a+touch+of+Back-end" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,9 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ## 🔧 Tech Stack
 
 ### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -23,7 +25,6 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF018C?logo=framer&logoColor=fff&style=for-the-badge)
 
 ### 🔧 Backend / Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
