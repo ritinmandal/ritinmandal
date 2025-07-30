@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ritin Mandal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+and+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,6 +27,7 @@ I'm a passionate **Front-end Developer** who loves creating beautiful and respon
 ### 🔧 Backend / Tools
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
