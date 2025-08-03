@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ritin Mandal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Driven+by+Tech+and+Fascinated+by+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+Driven+%7C+Fascinated+by+AI" alt="Typing SVG" />
 </p>
 
 ---
