@@ -1,5 +1,5 @@
-<h1 align="center">![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUwbncwdGFkZnJxNXJ6eHF6ZWltbHVjb2xiOGg5b2MwdmoyZnUzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jNgMRFZax4hYqyvrqC/giphy.gif)
- </h1>
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUwbncwdGFkZnJxNXJ6eHF6ZWltbHVjb2xiOGg5b2MwdmoyZnUzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jNgMRFZax4hYqyvrqC/giphy.gif)
+
 
 
 <h1 align="center">Hi there, I'm Ritin Mandal 👋</h1>
