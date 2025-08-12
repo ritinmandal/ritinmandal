@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+Driven+%7C+Fascinated+by+AI" alt="Typing SVG" />
+  ![Cool GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNiMG50Y3NweWt6czJvOXI3cmp0enN2dDNvcTFjZHphMDQwYXIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V8DY6kqnZk294v6IJQ/giphy.gif)
 </p>
 
 
@@ -11,7 +12,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate **Front-end Developer** who loves creating beautiful and responsive web applications. While front-end is my playground, I also enjoy experimenting with a bit of back-end to keep things dynamic and complete.
-![Cool GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNiMG50Y3NweWt6czJvOXI3cmp0enN2dDNvcTFjZHphMDQwYXIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V8DY6kqnZk294v6IJQ/giphy.gif)
+
 ---
 
 ## 🧰 Tech Stack
