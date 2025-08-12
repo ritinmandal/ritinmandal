@@ -1,8 +1,9 @@
-<p align="center">
+<div><p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUwbncwdGFkZnJxNXJ6eHF6ZWltbHVjb2xiOGg5b2MwdmoyZnUzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jNgMRFZax4hYqyvrqC/giphy.gif" alt="GIF">
 </p>
 
-<h1 align="center">Hi there, I'm Ritin Mandal 👋</h1>
+<h1 align="center">Hi there, I'm Ritin Mandal 👋</h1><div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+Driven+%7C+Fascinated+by+AI" alt="Typing SVG" />
