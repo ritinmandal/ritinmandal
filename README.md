@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Front-end Developer** who loves creating beautiful and responsive web applications. While front-end is my playground, I also enjoy experimenting with a bit of back-end to keep things dynamic and complete.
+“I’m a Front-end Developer dedicated to transforming ideas into elegant, user-friendly web applications. With a strong eye for design and a focus on performance, I build interfaces that are both beautiful and functional. Beyond front-end, I explore back-end technologies to create seamless, end-to-end digital experiences.”
 
 ---
 
