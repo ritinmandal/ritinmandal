@@ -54,7 +54,8 @@
   <b>Framer</b>
   <img src="https://skillicons.dev/icons?i=redux" height="40" />
   <span style="margin-right: 50px;"><b>Redux</b></span>
-
+<img src="https://skillicons.dev/icons?i=gsap" height="40" />
+  <span style="margin-right: 50px;"><b>Gsap</b></span>
 </p>
 
 ## 🔧 Backend / DevTools
